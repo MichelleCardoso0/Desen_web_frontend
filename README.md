@@ -1,3 +1,3 @@
-# eJuice
+#  eArtesanato
 
-## Comércio eletrônico para venda de sucos.
+##  Comercio de produtos artesanais
